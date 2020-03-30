@@ -1,0 +1,6 @@
+name: ProdriversPlayers
+main: fr.prodrivers.bukkit.players.PlayersPlugin
+version: ${project.version}
+description: ${project.description}
+depend: [ProdriversCommons]
+api-version: 1.13
